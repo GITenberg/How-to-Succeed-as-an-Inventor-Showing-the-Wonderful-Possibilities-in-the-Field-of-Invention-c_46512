@@ -1,15 +1,16 @@
 _repo: How-to-Succeed-as-an-Inventor-Showing-the-Wonderful-Possibilities-in-the-Field-of-Invention-c_46512
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46512/46512-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46512-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Goodwin B.
     gutenberg_agent_id: '43823'
     url: http://www.gutenberg.org/2009/agents/43823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46512#How-to-Succeed-as-an-Inventor-Showing-the-Wonderful-Possibilities-in-the-Field-of-Invention-c
 gutenberg_issued: '2014-08-05'
 gutenberg_type: Text
 identifiers:
