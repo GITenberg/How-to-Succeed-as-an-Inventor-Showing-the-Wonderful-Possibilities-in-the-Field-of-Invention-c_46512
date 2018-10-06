@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'How to Succeed as an Inventor
 
   Showing the Wonderful Possibilities in the Field of Invention; &c.'
